@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Twitter](https://twitter.com/YakirDev)**
 
-- 📫 How to reach me **yakir.fos1@gmail.com**
+- 📫 How to reach me **yakir.fos1@gmail.com // Discord : 𝒀𝒂𝒌𝒊𝒓#3847**
 
 - ⚡ Fun fact im **Football Player & Gamer.**
 
