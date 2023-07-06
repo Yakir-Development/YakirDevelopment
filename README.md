@@ -1,22 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yakir</h1>
-<h3 align="center">I'm a professional Lua & Website Developer from Israel.</h3>
+<h3 align="center">I'm a professional Lua Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ Fivem Project ](https://discord.gg/VzEKHTVjB4)**
-
 - 🌱 I’m currently learning **Lua & Website Building.**
 
-- 👯 I’m looking to cooperate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Twitter](https://twitter.com/YakirDev)**
-
-- 📫 How to reach me **yakir.fos1@gmail.com // Discord : 𝒀𝒂𝒌𝒊𝒓#3847**
-
-- ⚡ Fun fact im **Football Player & Gamer.**
+- 📫 How to reach me **yakir.fos1@gmail.com // Discord : yakir3847**
 
 ## 🚀 Languages and Tools:
 
